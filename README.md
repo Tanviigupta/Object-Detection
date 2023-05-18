@@ -1,7 +1,7 @@
 # Object-Detection
  
  
- SPARKS PROJECT:
+ YOLO OBJECT DETECTION:
  
 Sparks Foundation IOT & COMPUTER VISION Internship Project : An object detector is a computer vision algorithm or system that can identify and locate objects within an image or a video. The goal of object detection is to not only classify the objects present but also determine their precise spatial location using bounding boxes. 
 
