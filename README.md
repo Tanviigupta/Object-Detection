@@ -7,6 +7,3 @@ Sparks Foundation IOT & COMPUTER VISION Internship Project : An object detector 
 
 In this project I have used yolov3-tiny.weights which  refers to the pre-trained weights file for the YOLOv3 Tiny model. In the YOLO (You Only Look Once) object detection framework, the term "Tiny" is used to denote a smaller and lighter version of the original YOLOv3 model. The YOLOv3 Tiny model is designed to have reduced complexity and computational requirements, making it suitable for real-time applications with resource-constrained environments.
 
-Jupyter notebook link:-
-
-
